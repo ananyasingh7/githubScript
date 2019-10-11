@@ -1,5 +1,5 @@
 #!/bin/sh
-#blaha
+#blahad
 git add .
 sleep 1
 printf "Enter commit message: "
